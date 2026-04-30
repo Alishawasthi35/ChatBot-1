@@ -1,0 +1,30 @@
+{
+  "name": "chatbot-1",
+  "version": "1.0.0",
+  "description": "A full-stack React and Express AI chatbot with local auth and Hugging Face integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "npm run dev --prefix client",
+    "dev:client": "npm run dev --prefix client",
+    "install:client": "npm install --prefix client",
+    "build": "npm run build --prefix client",
+    "build:client": "npm run build --prefix client",
+    "lint:client": "npm run lint --prefix client",
+    "test": "echo \"No automated tests configured yet\""
+  },
+  "keywords": [
+    "react",
+    "express",
+    "chatbot",
+    "huggingface",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "openai": "^6.35.0"
+  }
+}
