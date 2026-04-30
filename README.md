@@ -1,6 +1,6 @@
 # ChatBot#1
 
-A portfolio-ready full-stack AI chatbot built with React, Express, REST APIs, local authentication, and Hugging Face Inference Providers.
+A AI chatbot built with React, Express, REST APIs, local authentication, and Hugging Face Inference Providers.
 
 ## Features
 
